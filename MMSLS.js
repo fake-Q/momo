@@ -1,26 +1,7 @@
-/**
-利用随机概率实现多账户运行
-
-填写格式如下：
-
 
 const MMSLS = [
     
-    "https://www.maimemo.com/share/page?uid=15249640&pid=afaa99854200461684ec24c45b6aa6e4&tid=57653da5c7394f126d7923c9044b4dc1",
-    "https://www.maimemo.com/share/page?uid=15249640&pid=afaa99854200461684ec24c45b6aa6e4&tid=57653da5c7394f126d7923c9044b4dc1",
-    "https://www.maimemo.com/share/page?uid=15249640&pid=afaa99854200461684ec24c45b6aa6e4&tid=57653da5c7394f126d7923c9044b4dc1",
-  ]
-=====================以上为范例！=====================
-
-=====================请在下面编辑=====================
-=====================请在下面编辑=====================
-=====================请在下面编辑=====================
-=====================请在下面编辑=====================
-=====================请在下面编辑=====================
- */
-const MMSLS = [
-    
-    "https://www.maimemo.com/share/page?uid=27169508&pid=c8a40bd752a7bc987fc5afc0abca8ed3&tid=1223be239efd75dd2999a33378d00d00",
+    "https://www.maimemo.com/share/page?uid=27169508&pid=fb154e179c1989087398386ce60eca92&tid=b6bc54a994574e3cd22cb68018dc9dbc",
   
 ]
   /**
