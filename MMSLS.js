@@ -1,6 +1,6 @@
 
 const MMSLS = [
-    "https://www.maimemo.com/share/page?uid=27169508&pid=c4c7a04e351ccc53458b4fa5055e5dc4&tid=0172812f63e0784e36d2ad5b51502934",
+    "https://www.https://www.maimemo.com/share/page?uid=27169508&pid=82c1220c294946141450a0e0acea191e&tid=5d40260466ee6442f04cb6e89eaa4284.com/share/page?uid=27169508&pid=c4c7a04e351ccc53458b4fa5055e5dc4&tid=0172812f63e0784e36d2ad5b51502934",
   
 ]
   /**
