@@ -1,6 +1,6 @@
 
 const MMSLS =  [
-  "https://www.maimemo.com/share/page?uid=27169508&pid=86153affa98c4e48c05f25cac4bd8d36&tid=50a72f66c3cff389fe693eb862382541",
+  "https://www.maimemo.com/share/page?uid=27169508&pid=9b6f3dbcc9475c181a229dea9b40423d&tid=9b2e719f08365a78b7c890b1b62278e5",
   ]/**
    * 生成随机数字
    * @param {number} min 最小值（包含）
